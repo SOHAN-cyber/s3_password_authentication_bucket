@@ -24,3 +24,6 @@
 ![](images/lamdba_cdn.png)
 
 8)Click on Save option. And you will find the CDN working as per you requirement.
+
+9)Also you can refer below link as wel
+https://austinlasseter.medium.com/build-a-password-protected-website-using-aws-lambda-and-cloudfront-3743cc4d09b6
